@@ -12,5 +12,7 @@ public class MainApplication {
 
     public static void doSomething() {
         System.out.println("SOLO");
+        System.out.println(1111);
+        System.out.println(2222);
     }
 }
